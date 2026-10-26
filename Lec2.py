@@ -6,10 +6,12 @@
 
 #using the variable in python program:-
 
-a=12
-b=13
-c=15
-sum=a+b+c
+a=12   # a is variable
+b=13   # b is variable
+c=15   # c is variable
+sum=a+b+c # sum is variable
 print(sum)
 print(sum-100)
+
+
 
